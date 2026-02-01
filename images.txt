@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
+node:18-alpine
+golang:1.23-alpine

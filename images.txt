@@ -7,3 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 node:18-alpine
 golang:1.23-alpine
+golang:1.22-alpine

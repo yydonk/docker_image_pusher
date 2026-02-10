@@ -10,3 +10,4 @@ golang:1.23-alpine
 golang:1.22-alpine
 nginx:alpine
 golang:1.25-alpine
+huanheart/gopherai-v1
